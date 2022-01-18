@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/cooo002)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ynwa3690@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Notion-0078D4?style=flat&logo=Microsoft-Notion&logoColor=white)](https://www.notion.so/Teo-kim-d6aa30a402f0403ba414467d7924f48e)
+[![Outlook](https://img.shields.io/badge/-Notion-0078D4?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/Teo-kim-d6aa30a402f0403ba414467d7924f48e)
 
 ⚡️ More about my coding life
 
